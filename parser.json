@@ -1,7 +1,7 @@
 {
+  "parser_version": "d554c1456e35e7b2690552d52921c987d0cf6799",
   "location": null,
-  "url": "https://github.com/hanxi/tree-sitter-sproto",
-  "lang": "sproto",
   "semver": false,
-  "parser_version": "d554c1456e35e7b2690552d52921c987d0cf6799"
+  "url": "https://github.com/hanxi/tree-sitter-sproto",
+  "lang": "sproto"
 }
